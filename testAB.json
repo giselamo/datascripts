@@ -1,0 +1,594 @@
+{
+  "Dataset1": [
+    {
+      "Test AB": "SMS with link A",
+      "Event Label": "j14489894 - 583744df78684149f90f1449 - no",
+      "Total Events": "3"
+    },
+    {
+      "Test AB": "SMS with link A",
+      "Event Label": "j20603580 - 5835ff4d78684179f03707ef - yes_had_interview",
+      "Total Events": "3"
+    },
+    {
+      "Test AB": "SMS with link C",
+      "Event Label": "j14489894 - 5837a1e3d3ebc62ed94c640c - no",
+      "Total Events": "3"
+    },
+    {
+      "Test AB": "SMS with link C",
+      "Event Label": "j18009498 - 5835f3ba9579e1663e02ff52 - yes_had_interview",
+      "Total Events": "3"
+    },
+    {
+      "Test AB": "SMS with link C",
+      "Event Label": "j20226064 - 5837378878684149f90f142c - no",
+      "Total Events": "3"
+    },
+    {
+      "Test AB": "SMS with link C",
+      "Event Label": "j20226064 - 5837d1e378684149f90f1540 - no",
+      "Total Events": "3"
+    },
+    {
+      "Test AB": "SMS with link A",
+      "Event Label": "j18952276 - 582e71d27868416cfe42eaec - no",
+      "Total Events": "2"
+    },
+    {
+      "Test AB": "SMS with link A",
+      "Event Label": "j20062244 - 5834d01b9579e150955db2fe - yes_not_invited",
+      "Total Events": "2"
+    },
+    {
+      "Test AB": "SMS with link A",
+      "Event Label": "j24781192 - 58319a807868417e853c5c7c - no",
+      "Total Events": "2"
+    },
+    {
+      "Test AB": "SMS with link B",
+      "Event Label": "j18009498 - 58347fa69579e17e68f476c8 - yes_not_invited",
+      "Total Events": "2"
+    },
+    {
+      "Test AB": "SMS with link B",
+      "Event Label": "j18055150 - 583458369579e17e68f4760d - yes_not_invited",
+      "Total Events": "2"
+    },
+    {
+      "Test AB": "SMS with link B",
+      "Event Label": "j18055150 - 5834fce2d3ebc671ec606a26 - no",
+      "Total Events": "2"
+    },
+    {
+      "Test AB": "SMS with link B",
+      "Event Label": "j20226062 - 583271e9d3ebc62594a0f13e - no",
+      "Total Events": "2"
+    },
+    {
+      "Test AB": "SMS with link B",
+      "Event Label": "j25747049 - 583611e278684179f037081c - yes_not_invited",
+      "Total Events": "2"
+    },
+    {
+      "Test AB": "SMS with link C",
+      "Event Label": "j18009498 - 5835f3ba9579e1663e02ff52 - no",
+      "Total Events": "2"
+    },
+    {
+      "Test AB": "SMS with link C",
+      "Event Label": "j18009498 - 5835f3ba9579e1663e02ff52 - yes_not_interested",
+      "Total Events": "2"
+    },
+    {
+      "Test AB": "SMS with link C",
+      "Event Label": "j19213099 - 5831bd107868417e853c5cb2 - no",
+      "Total Events": "2"
+    },
+    {
+      "Test AB": "SMS with link C",
+      "Event Label": "j20226062 - 5833be147868415aefc3641f - yes_not_invited",
+      "Total Events": "2"
+    },
+    {
+      "Test AB": "SMS with link C",
+      "Event Label": "j20751743 - 58348e709579e17e68f47720 - no",
+      "Total Events": "2"
+    },
+    {
+      "Test AB": "SMS with link C",
+      "Event Label": "j20751743 - 58387431d3ebc609e69645bd - no",
+      "Total Events": "2"
+    },
+    {
+      "Test AB": "SMS with link C",
+      "Event Label": "j24781191 - 58345c64d3ebc630e46b2b5d - no",
+      "Total Events": "2"
+    },
+    {
+      "Test AB": "SMS with link C",
+      "Event Label": "j25747048 - 5838d7f2d3ebc609e696468c - no",
+      "Total Events": "2"
+    },
+    {
+      "Test AB": "SMS with link A",
+      "Event Label": "j18009498 - 583039039579e1338bd0120c - no",
+      "Total Events": "1"
+    },
+    {
+      "Test AB": "SMS with link A",
+      "Event Label": "j18009498 - 583751809579e116a3d1987b - no",
+      "Total Events": "1"
+    },
+    {
+      "Test AB": "SMS with link A",
+      "Event Label": "j18009498 - 58377a5978684149f90f14b3 - no",
+      "Total Events": "1"
+    },
+    {
+      "Test AB": "SMS with link A",
+      "Event Label": "j18952276 - 582cb2239579e1347a768f76 - no",
+      "Total Events": "1"
+    },
+    {
+      "Test AB": "SMS with link A",
+      "Event Label": "j19213099 - 582ccbb478684116bb3eb100 - yes_not_invited",
+      "Total Events": "1"
+    },
+    {
+      "Test AB": "SMS with link A",
+      "Event Label": "j19213099 - 582db1c0d3ebc61b6db39e53 - yes_not_invited",
+      "Total Events": "1"
+    },
+    {
+      "Test AB": "SMS with link A",
+      "Event Label": "j19213099 - 582fe10678684144a28d8c07 - yes_not_invited",
+      "Total Events": "1"
+    },
+    {
+      "Test AB": "SMS with link A",
+      "Event Label": "j19213099 - 583393e7d3ebc6090e61ee2e - yes_not_invited",
+      "Total Events": "1"
+    },
+    {
+      "Test AB": "SMS with link A",
+      "Event Label": "j19296378 - 5830e9cc786841292b1cebdc - yes_had_interview",
+      "Total Events": "1"
+    },
+    {
+      "Test AB": "SMS with link A",
+      "Event Label": "j19380818 - 58364f1ad3ebc6475cb88109 - yes_not_invited",
+      "Total Events": "1"
+    },
+    {
+      "Test AB": "SMS with link A",
+      "Event Label": "j19380818 - 58387454d3ebc609e69645c3 - no",
+      "Total Events": "1"
+    },
+    {
+      "Test AB": "SMS with link A",
+      "Event Label": "j19380818 - 58387454d3ebc609e69645c3 - yes_not_interested",
+      "Total Events": "1"
+    },
+    {
+      "Test AB": "SMS with link A",
+      "Event Label": "j19456904 - 5838a45f7868415515bf4779 - no",
+      "Total Events": "1"
+    },
+    {
+      "Test AB": "SMS with link A",
+      "Event Label": "j20226062 - 5830e52b9579e113d48f7fb1 - no",
+      "Total Events": "1"
+    },
+    {
+      "Test AB": "SMS with link A",
+      "Event Label": "j20226062 - 5835b59f9579e1663e02fe2c - no",
+      "Total Events": "1"
+    },
+    {
+      "Test AB": "SMS with link A",
+      "Event Label": "j20226062 - 5837d7c778684149f90f1549 - no",
+      "Total Events": "1"
+    },
+    {
+      "Test AB": "SMS with link A",
+      "Event Label": "j20226064 - 583724839579e116a3d1982c - no",
+      "Total Events": "1"
+    },
+    {
+      "Test AB": "SMS with link A",
+      "Event Label": "j20621755 - 5835e3d69579e1663e02ff12 - yes_not_invited",
+      "Total Events": "1"
+    },
+    {
+      "Test AB": "SMS with link A",
+      "Event Label": "j20621756 - 582f9bb078684144a28d8b41 - yes_not_interested",
+      "Total Events": "1"
+    },
+    {
+      "Test AB": "SMS with link A",
+      "Event Label": "j20706680 - 581976efd3ebc66d6196c578 - no",
+      "Total Events": "1"
+    },
+    {
+      "Test AB": "SMS with link A",
+      "Event Label": "j20706680 - 5836495f9579e1663e030053 - no",
+      "Total Events": "1"
+    },
+    {
+      "Test AB": "SMS with link A",
+      "Event Label": "j20706680 - 5836495f9579e1663e030053 - yes_not_invited",
+      "Total Events": "1"
+    },
+    {
+      "Test AB": "SMS with link A",
+      "Event Label": "j20751743 - 5837458e9579e116a3d19863 - no",
+      "Total Events": "1"
+    },
+    {
+      "Test AB": "SMS with link A",
+      "Event Label": "j22742049 - 5834da837868411c6c74bf3b - no",
+      "Total Events": "1"
+    },
+    {
+      "Test AB": "SMS with link A",
+      "Event Label": "j22742049 - 5834da837868411c6c74bf3b - yes_not_invited",
+      "Total Events": "1"
+    },
+    {
+      "Test AB": "SMS with link A",
+      "Event Label": "j22742049 - 5834dafc7868411c6c74bf4d - no",
+      "Total Events": "1"
+    },
+    {
+      "Test AB": "SMS with link A",
+      "Event Label": "j22742049 - 5836361b78684179f0370886 - no",
+      "Total Events": "1"
+    },
+    {
+      "Test AB": "SMS with link A",
+      "Event Label": "j23363913 - 58338ee1d3ebc6090e61ee10 - no",
+      "Total Events": "1"
+    },
+    {
+      "Test AB": "SMS with link A",
+      "Event Label": "j23426206 - 5837388678684149f90f1436 - yes_had_interview",
+      "Total Events": "1"
+    },
+    {
+      "Test AB": "SMS with link A",
+      "Event Label": "j24698258 - 582667fcd3ebc66d6cfc1efc - no",
+      "Total Events": "1"
+    },
+    {
+      "Test AB": "SMS with link A",
+      "Event Label": "j24781188 - 5830fe939579e113d48f7ff4 - yes_not_invited",
+      "Total Events": "1"
+    },
+    {
+      "Test AB": "SMS with link A",
+      "Event Label": "j24781188 - 58366f8178684179f037095b - no",
+      "Total Events": "1"
+    },
+    {
+      "Test AB": "SMS with link A",
+      "Event Label": "j24781191 - 5830ccd69579e113d48f7f76 - no",
+      "Total Events": "1"
+    },
+    {
+      "Test AB": "SMS with link A",
+      "Event Label": "j24781191 - 5832446cd3ebc62594a0f0cb - yes_had_interview",
+      "Total Events": "1"
+    },
+    {
+      "Test AB": "SMS with link A",
+      "Event Label": "j24781191 - 5832446cd3ebc62594a0f0cb - yes_not_invited",
+      "Total Events": "1"
+    },
+    {
+      "Test AB": "SMS with link A",
+      "Event Label": "j25172407 - 583790c29579e116a3d198e4 - no",
+      "Total Events": "1"
+    },
+    {
+      "Test AB": "SMS with link A",
+      "Event Label": "j25703363 - 5834f919d3ebc671ec606a1c - yes_not_invited",
+      "Total Events": "1"
+    },
+    {
+      "Test AB": "SMS with link A",
+      "Event Label": "j25703363 - 583672ead3ebc6475cb8815c - no",
+      "Total Events": "1"
+    },
+    {
+      "Test AB": "SMS with link A",
+      "Event Label": "j25747049 - 583911a37868415515bf4854 - no",
+      "Total Events": "1"
+    },
+    {
+      "Test AB": "SMS with link B",
+      "Event Label": "j11495841 - 58339778d3ebc6090e61ee39 - no",
+      "Total Events": "1"
+    },
+    {
+      "Test AB": "SMS with link B",
+      "Event Label": "j11495841 - 583508ea9579e11d1449ca89 - no",
+      "Total Events": "1"
+    },
+    {
+      "Test AB": "SMS with link B",
+      "Event Label": "j14489894 - 5833b8d89579e113087d7fb7 - yes_not_invited",
+      "Total Events": "1"
+    },
+    {
+      "Test AB": "SMS with link B",
+      "Event Label": "j15146264 - 58350b659579e11d1449ca96 - yes_had_interview",
+      "Total Events": "1"
+    },
+    {
+      "Test AB": "SMS with link B",
+      "Event Label": "j18009498 - 5830c006d3ebc6664d6cff76 - yes_scheduled",
+      "Total Events": "1"
+    },
+    {
+      "Test AB": "SMS with link B",
+      "Event Label": "j18009498 - 5830fd8c786841292b1cec10 - yes_scheduled",
+      "Total Events": "1"
+    },
+    {
+      "Test AB": "SMS with link B",
+      "Event Label": "j18009498 - 5831f8e27868417e853c5d3b - yes_not_interested",
+      "Total Events": "1"
+    },
+    {
+      "Test AB": "SMS with link B",
+      "Event Label": "j18055150 - 582cc872d3ebc620e861d291 - yes_not_invited",
+      "Total Events": "1"
+    },
+    {
+      "Test AB": "SMS with link B",
+      "Event Label": "j18055150 - 5833721c9579e113087d7eec - yes_not_invited",
+      "Total Events": "1"
+    },
+    {
+      "Test AB": "SMS with link B",
+      "Event Label": "j19213099 - 582ffbb89579e1338bd011e1 - yes_not_invited",
+      "Total Events": "1"
+    },
+    {
+      "Test AB": "SMS with link B",
+      "Event Label": "j19380818 - 583893507868415515bf474e - no",
+      "Total Events": "1"
+    },
+    {
+      "Test AB": "SMS with link B",
+      "Event Label": "j19456904 - 5830a7ad786841292b1ceac1 - yes_not_invited",
+      "Total Events": "1"
+    },
+    {
+      "Test AB": "SMS with link B",
+      "Event Label": "j20226062 - 58329a577868417e853c5e93 - no",
+      "Total Events": "1"
+    },
+    {
+      "Test AB": "SMS with link B",
+      "Event Label": "j20226062 - 5834f6927868411c6c74bfc1 - yes_not_interested",
+      "Total Events": "1"
+    },
+    {
+      "Test AB": "SMS with link B",
+      "Event Label": "j20621755 - 583101f6786841292b1cec1d - yes_not_invited",
+      "Total Events": "1"
+    },
+    {
+      "Test AB": "SMS with link B",
+      "Event Label": "j20621755 - 583465c9786841201e18990c - no",
+      "Total Events": "1"
+    },
+    {
+      "Test AB": "SMS with link B",
+      "Event Label": "j20706680 - 5834a66cd3ebc630e46b2cd8 - yes_not_invited",
+      "Total Events": "1"
+    },
+    {
+      "Test AB": "SMS with link B",
+      "Event Label": "j20713688 - 58308e4f786841292b1cea7d - no",
+      "Total Events": "1"
+    },
+    {
+      "Test AB": "SMS with link B",
+      "Event Label": "j22029593 - 5836818cd3ebc6475cb88171 - yes_not_invited",
+      "Total Events": "1"
+    },
+    {
+      "Test AB": "SMS with link B",
+      "Event Label": "j22029593 - 58383b499579e177f04cc084 - no",
+      "Total Events": "1"
+    },
+    {
+      "Test AB": "SMS with link B",
+      "Event Label": "j22742049 - 583830e67868415515bf466e - no",
+      "Total Events": "1"
+    },
+    {
+      "Test AB": "SMS with link B",
+      "Event Label": "j23426207 - 58362364d3ebc6475cb88094 - yes_not_invited",
+      "Total Events": "1"
+    },
+    {
+      "Test AB": "SMS with link B",
+      "Event Label": "j24213302 - 582f349a9579e1338bd00f1a - no",
+      "Total Events": "1"
+    },
+    {
+      "Test AB": "SMS with link B",
+      "Event Label": "j25172407 - 583049c69579e131daecbd17 - no",
+      "Total Events": "1"
+    },
+    {
+      "Test AB": "SMS with link B",
+      "Event Label": "j25172407 - 5831c66bd3ebc62594a0efc3 - yes_not_invited",
+      "Total Events": "1"
+    },
+    {
+      "Test AB": "SMS with link B",
+      "Event Label": "j25172411 - 583079ca786841292b1cea15 - no",
+      "Total Events": "1"
+    },
+    {
+      "Test AB": "SMS with link B",
+      "Event Label": "j25747049 - 5838a4ea9579e177f04cc1c2 - no",
+      "Total Events": "1"
+    },
+    {
+      "Test AB": "SMS with link C",
+      "Event Label": "j12659355 - 5835b614d3ebc6475cb87f1e - yes_not_invited",
+      "Total Events": "1"
+    },
+    {
+      "Test AB": "SMS with link C",
+      "Event Label": "j13362636 - 58366cfe78684179f037094e - no",
+      "Total Events": "1"
+    },
+    {
+      "Test AB": "SMS with link C",
+      "Event Label": "j14489894 - 5837a1e3d3ebc62ed94c640c - yes_had_interview",
+      "Total Events": "1"
+    },
+    {
+      "Test AB": "SMS with link C",
+      "Event Label": "j14509094 - 58335cea9579e113087d7e85 - no",
+      "Total Events": "1"
+    },
+    {
+      "Test AB": "SMS with link C",
+      "Event Label": "j18009498 - 58327ee97868417e853c5e75 - yes_had_interview",
+      "Total Events": "1"
+    },
+    {
+      "Test AB": "SMS with link C",
+      "Event Label": "j18055150 - 581e12117868412037e399e0 - no",
+      "Total Events": "1"
+    },
+    {
+      "Test AB": "SMS with link C",
+      "Event Label": "j19213099 - 583343897868415aefc3621c - no",
+      "Total Events": "1"
+    },
+    {
+      "Test AB": "SMS with link C",
+      "Event Label": "j20226062 - 583307249579e113087d7ce9 - no",
+      "Total Events": "1"
+    },
+    {
+      "Test AB": "SMS with link C",
+      "Event Label": "j20226062 - 583678159579e1663e0300c9 - yes_not_invited",
+      "Total Events": "1"
+    },
+    {
+      "Test AB": "SMS with link C",
+      "Event Label": "j20226064 - 5837378878684149f90f142c - yes_not_interested",
+      "Total Events": "1"
+    },
+    {
+      "Test AB": "SMS with link C",
+      "Event Label": "j20621755 - 58177c10d3ebc66c91040868 - no",
+      "Total Events": "1"
+    },
+    {
+      "Test AB": "SMS with link C",
+      "Event Label": "j20621755 - 58177c10d3ebc66c91040868 - yes_had_interview",
+      "Total Events": "1"
+    },
+    {
+      "Test AB": "SMS with link C",
+      "Event Label": "j20751743 - 5833c77fd3ebc6090e61eed9 - no",
+      "Total Events": "1"
+    },
+    {
+      "Test AB": "SMS with link C",
+      "Event Label": "j20830759 - 582203dd78684157160d9b1c - yes_not_interested",
+      "Total Events": "1"
+    },
+    {
+      "Test AB": "SMS with link C",
+      "Event Label": "j20830759 - 582203dd78684157160d9b1c - yes_not_invited",
+      "Total Events": "1"
+    },
+    {
+      "Test AB": "SMS with link C",
+      "Event Label": "j22029593 - 5834f5fbd3ebc671ec606a0e - no",
+      "Total Events": "1"
+    },
+    {
+      "Test AB": "SMS with link C",
+      "Event Label": "j22029593 - 5838b10a7868415515bf478e - yes_not_invited",
+      "Total Events": "1"
+    },
+    {
+      "Test AB": "SMS with link C",
+      "Event Label": "j22466212 - 58312a0ed3ebc6664d6d0005 - no",
+      "Total Events": "1"
+    },
+    {
+      "Test AB": "SMS with link C",
+      "Event Label": "j22742049 - 5836150e9579e1663e02ffc7 - no",
+      "Total Events": "1"
+    },
+    {
+      "Test AB": "SMS with link C",
+      "Event Label": "j22742049 - 5836150e9579e1663e02ffc7 - yes_had_interview",
+      "Total Events": "1"
+    },
+    {
+      "Test AB": "SMS with link C",
+      "Event Label": "j22742049 - 5837de0bd3ebc62ed94c6442 - yes_not_invited",
+      "Total Events": "1"
+    },
+    {
+      "Test AB": "SMS with link C",
+      "Event Label": "j23426207 - 58338df37868415aefc3636b - yes_not_interested",
+      "Total Events": "1"
+    },
+    {
+      "Test AB": "SMS with link C",
+      "Event Label": "j24336828 - 58307d68786841292b1cea21 - no",
+      "Total Events": "1"
+    },
+    {
+      "Test AB": "SMS with link C",
+      "Event Label": "j24781190 - 58326b937868417e853c5e3d - yes_not_invited",
+      "Total Events": "1"
+    },
+    {
+      "Test AB": "SMS with link C",
+      "Event Label": "j24781190 - 5837105e78684149f90f13c3 - no",
+      "Total Events": "1"
+    },
+    {
+      "Test AB": "SMS with link C",
+      "Event Label": "j24781190 - 5837105e78684149f90f13c3 - yes_not_invited",
+      "Total Events": "1"
+    },
+    {
+      "Test AB": "SMS with link C",
+      "Event Label": "j24781191 - 583065959579e113d48f7e36 - no",
+      "Total Events": "1"
+    },
+    {
+      "Test AB": "SMS with link C",
+      "Event Label": "j24781191 - 58382e309579e177f04cc06c - no",
+      "Total Events": "1"
+    },
+    {
+      "Test AB": "SMS with link C",
+      "Event Label": "j25172407 - 5831cccc9579e15239f1a171 - no",
+      "Total Events": "1"
+    },
+    {
+      "Test AB": "SMS with link C",
+      "Event Label": "j25747048 - 5838d7f2d3ebc609e696468c - yes_had_interview",
+      "Total Events": "1"
+    }
+  ]
+}
